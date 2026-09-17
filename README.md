@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋 I'm Veer Singh<br><br>**Azure DevOps Engineer | Kubernetes | Terraform | GitOps | Cloud Native**<br><br>I'm a DevOps and Cloud enthusiast focused on building and automating cloud infrastructure, containerized workloads, CI/CD pipelines, and Kubernetes deployments.<br><br>Currently focused on **Microsoft Azure, Kubernetes/AKS, Infrastructure as Code, CI/CD, GitOps, and Cloud Observability**.<br><br>---<br><br>## 🚀 What I'm Working On<br><br>* Building Azure-based DevOps and Kubernetes projects<br>* Deploying containerized workloads on **Azure Kubernetes Service (AKS)**<br>* Automating infrastructure with **Terraform**<br>* Building CI/CD pipelines with **GitHub Actions**<br>* Implementing GitOps workflows with **Argo CD**<br>* Working with **Helm** for Kubernetes deployments<br>* Exploring cloud-native observability with **OpenTelemetry, Prometheus & Grafana**<br>* Improving my understanding of **DevSecOps and cloud security**<br><br>---<br><br>## 🌱 Currently Learning<br><br>* Advanced Kubernetes & AKS<br>* Azure Cloud Infrastructure<br>* GitOps with Argo CD<br>* Kubernetes troubleshooting & administration<br>* Infrastructure as Code with Terraform<br>* Cloud-native Observability<br>* DevSecOps practices<br><br>---<br><br>## 🏆 Certifications<br><br>* ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)<br>* ✅ Certified Kubernetes Administrator (CKA)<br><br>---<br><br>## 🛠 Tech Stack<br><br>### ☁️ Cloud<br><br>**Microsoft Azure • AKS • Azure Container Registry • Azure Monitor • Log Analytics • Entra ID • Key Vault • Azure Networking**<br><br>### ☸️ Cloud Native<br><br>**Kubernetes • Docker • Helm • Argo CD**<br><br>### ⚙️ DevOps & Automation<br><br>**Terraform • GitHub Actions • Git • GitHub • Linux • Bash**<br><br>### 📊 Observability<br><br>**OpenTelemetry • Prometheus • Grafana • Loki • Tempo • Azure Monitor**<br><br>### 🔐 Security<br><br>**DevSecOps • Azure RBAC • Identity & Access Management • Secrets Management**<br><br>### 💻 Languages & Scripting<br><br>**Python • Bash**<br><br>---<br><br>## 📌 Featured Projects<br><br>### ☸️ Azure AKS GitOps Monitoring Stack<br><br>End-to-end Azure AKS environment using **Terraform, GitHub Actions, Argo CD, Helm and OpenTelemetry**, with monitoring and observability integrated into the Kubernetes workload.<br><br>### 🔐 Azure Secure Artifact Flow<br><br>Azure-based container deployment workflow focused on **infrastructure automation, container image management, CI/CD and GitOps-based deployment**.<br><br>### 🎬 Netflix Clone — Azure AKS DevSecOps<br><br>Containerized application deployed on **Azure Kubernetes Service** with automated CI/CD, Kubernetes, Docker and DevSecOps practices.<br><br>---<br><br>## 🎯 2026 Goals<br><br>* Strengthen my expertise in Azure and Kubernetes<br>* Build more production-oriented DevOps projects<br>* Improve my cloud infrastructure and automation skills<br>* Deepen my understanding of GitOps and observability<br>* Contribute to open-source projects<br>* Grow as a **DevOps / Cloud Engineer**<br><br>---<br><br>## 📫 Connect With Me<br><br>* 💼 LinkedIn: [Veer Singh](YOUR_LINKEDIN_URL)<br>* 🐙 GitHub: [Veer9125](https://github.com/Veer9125)<br><br>---<br><br>⭐ Feel free to explore my repositories and projects.<br>
 
-<!--
-**Veer9125/Veer9125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veer Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veersingh56288@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Veer9125&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Veer9125&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Veer9125&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=Veer9125&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
